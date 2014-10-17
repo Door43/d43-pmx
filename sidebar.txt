@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pmx:home|Door43 (pmx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pmx|d43-pmx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pmx/archive/master.zip|d43-pmx.zip]]
+
+**Recent Changes**
+{{changes>ns = pmx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pmx|Ethnologue data]]
+
